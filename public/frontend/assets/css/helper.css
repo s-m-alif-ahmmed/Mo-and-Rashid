@@ -1,0 +1,23 @@
+/* body color */
+
+:root {
+    /* colors */
+    --white: #FFFFFF;
+    --gray--white: #DADADA;
+    --black: #000;
+    --red: #FE0000;
+    --secondary--black: #23282D;
+    --base-transition: 0.4s all ease;
+    /* font family */
+    --font--primary: "Inconsolata", monospace;
+  
+    /* all text sizes */
+    
+  }
+  
+.body--gray--white {
+    background-color: var(--gray--white) !important;
+}
+.body--black{
+  background-color: var(--black);
+}

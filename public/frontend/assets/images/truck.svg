@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+                <path
+                  d="M25 30C26.6569 30 28 28.6569 28 27C28 25.3431 26.6569 24 25 24C23.3431 24 22 25.3431 22 27C22 28.6569 23.3431 30 25 30Z"
+                  stroke="#DADADA" stroke-width="2" stroke-miterlimit="10" />
+                <path
+                  d="M8 30C9.65685 30 11 28.6569 11 27C11 25.3431 9.65685 24 8 24C6.34315 24 5 25.3431 5 27C5 28.6569 6.34315 30 8 30Z"
+                  stroke="#DADADA" stroke-width="2" stroke-miterlimit="10" />
+                <path d="M5 27H4C2.344 27 1 25.657 1 24V8C1 6.343 2.344 5 4 5H16C17.656 5 19 6.343 19 8V27H16H11"
+                  stroke="#DADADA" stroke-width="2" stroke-miterlimit="10" />
+                <path d="M22 27C20.344 27 19 27 19 27V13H22H26L31 19.167V24C31 25.657 29.656 27 28 27" stroke="#DADADA"
+                  stroke-width="2" stroke-miterlimit="10" />
+                <path d="M31 19H19" stroke="#DADADA" stroke-width="2" stroke-miterlimit="10" />
+              </svg>
